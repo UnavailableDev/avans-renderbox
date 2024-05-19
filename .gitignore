@@ -1,3 +1,7 @@
-bin
-lib
+__pycache__
+examples
+doc
+src
+test
+lib/python*
 
