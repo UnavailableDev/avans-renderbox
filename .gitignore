@@ -1,7 +1,3 @@
 __pycache__
-examples
-doc
-src
-test
-lib/python*
+venv
 
